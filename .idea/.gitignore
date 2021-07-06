@@ -2,3 +2,11 @@
 /shelf/
 /workspace.xml
 /target/*.*
+*.com
+*.class
+*.dll
+compiler.xml
+jarRepositories.xml
+misc.xml
+uiDesigner.xml
+vcs.xml
